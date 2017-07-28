@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\internal_impl-24.2.1_a95a40e36f973f89bdf5f56ec73f39d0b5f2b596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-9.8.0_d7de1a5c26b67882d8357dd17910e6d0e2951928.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.1_060a3ae8f4132f81742c3a9ff4619eb4827e4c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\internal_impl-24.2.1_a01c54ad9a8be9325af9612baf7ca84b451afa1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gass-9.8.0_0cf804af43bd2b940c4aeb881dfc8a8811e972ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.1_9b31f9a718747a89ffd216005b15064a8543a6ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.1_26bed0df3c4772cbbd35e148dff54e0eb4d0aca6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.1_7df885c56bab93f34b1380a8566244e8beefbf78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.1_f4e26c5aa57d5daefaa2b9e42839197ba1993243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.1_91b63085e03b241e6a58f3e03dfc1a010a995d9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.1_049006a41f2cdadbdb6d8a5bad6296dc518e1a32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-lite-9.8.0_0c48b3f3141544d8deaeb8a12858d521b48395b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-9.8.0_51e768edbf6603788b74c75e81b556d18693e52c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-clearcut-9.8.0_2b66891b2856970a20202494c23c4eaca486a45d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.8.0_75fee1349a9480e89263c6c8a89e8c1021e532de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-9.8.0_01545cafa44522d8c00236c013b0bdc2eb6ac080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.8.0_0dd42e91d4ebea725cc57dbc2f6d37ea5d3c5c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\internal_impl-24.2.1_1cafebb346bdc2a3855decdc3d597ea5dc847955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\android\adt-bundle-windows-x86-20130729\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\support-annotations-24.2.1_8dd31483347b8f1f9a57c8d4274e6469a28cbfba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\internal_impl-24.2.1_6e5d1a46cc975c9d9a17b566b4af0713257cf65e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-9.8.0_6be36d737550555777468c5d7a76f22dbb7a319a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.1_3e823235ef35441b7d5ddfa05d37f644ce4cab4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90edd05b777416e525a749e7974be784f1fd19a4">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\unity-classes_e7a104ba171a1f0b67618142405cdc29c99a79e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.1_cb4cea8fc6cac5401d9f55900318ba1e4fae8ae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.8.0_1b37a20d40a443d7ff0f1796c08b98583dc32882.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\internal_impl-24.2.1_c398fe3be491378d825a09c7f4de302473345d56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\malaka.sam\workspace_android\SpookyCatAndroid\Apartment\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-9.8.0_3d453da83c1d735a64752f0bc0c674bb095be0e0.jar" />
+    </item>
+
+</items>

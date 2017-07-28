@@ -1,0 +1,4 @@
+#Tue Apr 18 10:58:31 IST 2017
+base.0=C\:\\Users\\malaka.sam\\workspace_android\\SpookyCatAndroid\\Apartment\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\malaka.sam\\workspace_android\\SpookyCatAndroid\\Apartment\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

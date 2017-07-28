@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">692235627376-6vbi501h5u4hll8indeuc8nbns1qmias.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://spookycat-ab602.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">692235627376</string>
+    <string name="google_api_key" translatable="false">AIzaSyAwh_d364dn2FoWFUOFeuFsGM9XMunIgqs</string>
+    <string name="google_app_id" translatable="false">1:692235627376:android:87c6e6de7be3793f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAwh_d364dn2FoWFUOFeuFsGM9XMunIgqs</string>
+    <string name="google_storage_bucket" translatable="false">spookycat-ab602.appspot.com</string>
+</resources>
